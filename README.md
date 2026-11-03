@@ -4,7 +4,7 @@ Thai-first virtual film development studio: creative brief → story → charact
 
 ## Current plugin
 - Private ChatGPT plugin: [MT AI Film Studio](https://chatgpt.com/plugins/plugins_6ae96c2377c88191923dd47c03e79b00)
-- Plugin version: **v0.3.0**
+- Plugin version: **v0.4.0**
 - Scope: planning, skills, schemas, validation and handoff. Image/video rendering and complete automated production are **not** included.
 
 ## Repository map
@@ -24,6 +24,6 @@ Thai-first virtual film development studio: creative brief → story → charact
 7. **Quality gates**: human approval at key creative locks; technical validation does not establish artistic excellence.
 
 ## Start here
-Read `studio/creative-intelligence/CREATIVE_BRIEF_INTELLIGENCE_SPEC.md` and `productions/_templates/README.md`.
+Read [Documentation Index](docs/START_HERE.md), [Project Charter](docs/PROJECT_CHARTER.md), [Definitions](docs/GLOSSARY_AND_DEFINITIONS.md), [World-Class Studio Standard](studio/standards/WORLD_CLASS_FILM_STUDIO_STANDARD.md), [Director SOP](studio/director-governance/DIRECTOR_COMMAND_SOP.md), [Story Standard](studio/standards/STORY_DEVELOPMENT_STANDARD.md), [Character Continuity](studio/standards/CHARACTER_CONTINUITY_STANDARD.md), [Production Pipeline & Output](studio/standards/PRODUCTION_PIPELINE_AND_OUTPUT.md), and [Film Template](productions/_templates/README.md).
 
 > GitHub is the authoritative documentation and revision ledger. Store large images/video in external asset storage and link exact verified references in project manifests.
