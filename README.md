@@ -1,0 +1,29 @@
+# MT AI Film Studio — Single Source of Truth
+
+Thai-first virtual film development studio: creative brief → story → character & location locks → scene/shot design → AI image/video generation handoff → editorial/QC.
+
+## Current plugin
+- Private ChatGPT plugin: [MT AI Film Studio](https://chatgpt.com/plugins/plugins_6ae96c2377c88191923dd47c03e79b00)
+- Plugin version: **v0.3.0**
+- Scope: planning, skills, schemas, validation and handoff. Image/video rendering and complete automated production are **not** included.
+
+## Repository map
+- `studio/` — architecture, standards, creative intelligence, workflow and quality rules
+- `plugin/` — plugin documentation, skills and release notes
+- `productions/` — individual films with IDs `FILM-...`
+- `productions/_templates/` — templates for each film's stage-based production package
+- `docs/` — research and operating guidance
+
+## Required production principles
+1. **Story first**: treat audience, narrative engine, dramatic stakes, scene causality and approval before shot inflation.
+2. **User intent fidelity**: tag explicit user constraints separately from AI interpretations; no invented approval.
+3. **Character identity**: stable `CHAR-...` IDs; user-provided approved character sheets linked to every applicable shot.
+4. **Stage handoffs**: image generation receives relevant character sheets + image prompt; video generation receives approved shot ref + relevant character sheets + video prompt, subject to provider support.
+5. **Multi-character coverage**: person-by-person blocking, appearance state, dialogue speaker ID and silent/performance mode.
+6. **Shot scale**: designed for 200+ shot planning via stable IDs and scene-scoped work; 200-shot runtime must be checked against duration constraints.
+7. **Quality gates**: human approval at key creative locks; technical validation does not establish artistic excellence.
+
+## Start here
+Read `studio/creative-intelligence/CREATIVE_BRIEF_INTELLIGENCE_SPEC.md` and `productions/_templates/README.md`.
+
+> GitHub is the authoritative documentation and revision ledger. Store large images/video in external asset storage and link exact verified references in project manifests.
