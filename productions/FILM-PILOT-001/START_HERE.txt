@@ -1,0 +1,26 @@
+FILM-PILOT-001 | คลื่นก่อนรุ่ง (Before the Dawn Frequency)
+STATUS: DEVELOPMENT DRAFT — NOT USER APPROVED — NOT PRODUCTION READY
+VERSION: 1.1 (2026-11-03)
+TYPE: Fictional pilot, mystery / human drama / suspense
+SIZE: 15 scenes, exactly 200 unique planned shots
+SHOT DURATION: 6–10 seconds; total gross planned 1,580 seconds (26m20s)
+CAST: 3 on-screen characters (CHAR-001 มะลิ, CHAR-002 นนท์, CHAR-003 ดารา); CHAR-004 ไผ่ archival voice only.
+LOCATIONS: 6 fictional locations.
+REAL ASSETS: zero user-supplied character sheets / location images / shot reference images / clips.
+CREATIVE APPROVAL: pending from user.
+PROVIDER VERIFICATION: Grok/Google Flow input combinations unverified.
+
+REPOSITORY DOCUMENTS IN THIS BATCH
+00_MASTER_BLUEPRINT/FILM_BIBLE.md — character arcs, story and 15-scene narrative
+06_QC_HANDOFF/QA_REPORT.md — structural vs creative/production readiness checks
+Plugin release notes: /plugin/RELEASES/v0.5.0.md
+
+FULL LOCAL TEST ARTIFACT
+The full pilot bundle (1,623 files) was produced and validated in the originating ChatGPT conversation:
+MT_Film_Bible_15Scenes_200Shots_Pilot_v1.1.zip
+Includes full 200-entry SHOT_LIST.json, 15-scene screenplay draft, 200 image+video prompt packets, cast/location/beat registries and scorecards.
+This ZIP IS NOT YET SYNCED INTO GITHUB. Do not infer it is downloadable from GitHub.
+
+HANDOFF STAGES
+Creative review -> Story approved -> user supplies Character Sheets -> approved Shot Images -> AI Video clips -> Editing -> Final QC.
+No production-ready claim until required media + approvals are present.
